@@ -1,0 +1,49 @@
+*{
+    margin: 0 auto 0 auto;
+   max-width: 800px;
+}
+#name{ 
+    height:100%;
+    text-align: center;
+    font-size: 50px;
+    color: Chartreuse ;
+}
+#left{
+    height: 235px;
+    width: 20%;
+    float: left;
+    background-color: #000;
+    font-size: 30px;            
+}
+#contest{
+    height:100%;
+    width: 80%;
+    float: right;
+    background-color:#0d1be6;
+    text-align: center;
+    font-size: 40px;
+    color: #000;
+}
+#fotter{
+    height:100%;
+    width: 80%;
+    float: right;
+    background-color: cyan;
+    text-align: center;
+    font-size: 75px;
+    color: black;
+}
+#input{
+    border:0;
+    background-color:#ffee00;
+    color:#000000;
+    border-radius:100px;
+    cursor:pointer;
+    width: 100px;
+    height: 30px;
+}
+#input:hover{
+    color:#000000;
+    background-color:#fff;
+    border:2px #1c2275 solid;
+  }
